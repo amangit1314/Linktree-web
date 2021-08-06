@@ -1,0 +1,42 @@
+body {
+  font-family: "Poppins", sans-serif;
+}
+
+div.avatar {
+  text-align: center;
+  height: auto;
+  min-width: 100%;
+}
+
+div.name {
+  font-size: 30px;
+  text-align: center;
+  margin-bottom: 10px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+div.intro{
+  text-align: center;
+  font-size: 18px;
+  margin-bottom: 40px;
+}
+
+div.link-box {
+  border-style: none;
+  border-radius: 6px; 
+  border-color: black;
+  margin-left: 10%;
+  margin-top: 10px;
+  margin-right: 10%;
+  margin-bottom: 20px;
+  padding: 20px;
+  display: block;
+  text-align: center;
+  color: white;
+  background-image: linear-gradient(to right,#34ffbb, #655ce9 );
+}
+
+div.logo {
+  text-align: center;
+  margin-bottom: 0.5%;
+}
